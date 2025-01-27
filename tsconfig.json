@@ -9,6 +9,6 @@
     "outDir": "dist",                   // Output directory for compiled files
     "rootDir": "src"                    // Directory containing source files
   },
-  "include": ["src/**/*"],              // Files to include in compilation
+  "include": ["src/**/*.ts"],           // Files to include in compilation
   "exclude": ["node_modules", "tests"]  // Files/directories to exclude
 }
