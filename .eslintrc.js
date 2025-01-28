@@ -3,8 +3,8 @@ module.exports = {
     node: true,
     es6: true,
   },
-  extends: ["eslint:recommended", "prettier"],
+  extends: ['eslint:recommended', 'prettier'],
   rules: {
-    semi: ["error", "always"],
+    semi: ['error', 'always'],
   },
 };
