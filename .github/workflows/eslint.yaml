@@ -24,6 +24,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      # Run eslint and auto fix
       - name: Run ESLint and auto-fix
         run: npx eslint . --fix
 
