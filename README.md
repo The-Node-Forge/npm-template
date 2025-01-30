@@ -2,7 +2,9 @@
 
 **A starter npm package**
 
-This repository serves as a template for creating npm packages using TypeScript, Jest for testing, and a preconfigured development environment. It's designed to help you quickly set up a project with best practices.
+This repository serves as a template for creating npm packages using TypeScript, Jest
+for testing, and a preconfigured development environment. It's designed to help you
+quickly set up a project with best practices.
 
 ---
 
@@ -42,11 +44,15 @@ npm install
 
 ### 4. Start Building
 
-Write your code in the src/ folder, and export your packages public API in src/index.ts
+Write your code in the src/ folder, and export your packages public API in
+src/index.ts
+
+### 5. scripts
 
 ## Contributing
 
-Contributions are welcome! If you'd like to propose changes or improvements, feel free to open an issue or a pull request.
+Contributions are welcome! If you'd like to propose changes or improvements, feel
+free to open an issue or a pull request.
 
 ### Steps to Contribute
 

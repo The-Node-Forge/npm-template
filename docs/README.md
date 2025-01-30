@@ -3,7 +3,8 @@
 ```md
 # Documentation Index
 
-Welcome to the documentation for **{{PROJECT_NAME}}**. Below is a list of available guides:
+Welcome to the documentation for **{{PROJECT_NAME}}**. Below is a list of available
+guides:
 
 ## Description
 
@@ -28,5 +29,6 @@ Welcome to the documentation for **{{PROJECT_NAME}}**. Below is a list of availa
 
 ---
 
-Need help? Check out our [Discussions](https://github.com/The-Node-Forge/{{REPO_NAME}}/discussions).
+Need help? Check out our
+[Discussions](https://github.com/The-Node-Forge/{{REPO_NAME}}/discussions).
 ```

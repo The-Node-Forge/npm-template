@@ -26,13 +26,22 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run Jest tests
-        run: npm test
+      # Fail if no test files exist
+      - name: Ensure test files exist
+        run: |
+          if ! find ./tests ./src -type f -name "*.test.ts" -o -name "*.test.js" | grep .; then
+            echo "::error::No test files found! PRs require tests."
+            exit 1
+          fi
 
+      # Run Jest tests and fail if they don't pass
+      - name: Run Jest tests
+        run: npm test -- --coverage
+
+      # Upload Jest test results (always run, even if previous steps fail)
       - name: Upload Jest test results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: jest-results
           path: coverage
-  

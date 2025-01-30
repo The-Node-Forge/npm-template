@@ -1,12 +1,14 @@
 # Configuration Guide for {{PROJECT_NAME}}
 
-This document provides detailed instructions for configuring **{{PROJECT_NAME}}** to fit your specific needs.
+This document provides detailed instructions for configuring **{{PROJECT_NAME}}** to
+fit your specific needs.
 
 ---
 
 ## Default Configuration
 
-Below is the default configuration for the project. You can customize it by creating a `config.json` file or using environment variables.
+Below is the default configuration for the project. You can customize it by creating
+a `config.json` file or using environment variables.
 
 ### Example `config.json`
 
