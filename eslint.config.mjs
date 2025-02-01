@@ -18,6 +18,9 @@ const compat = new FlatCompat({
 });
 
 export default [
+  {
+    ignores: ['docs/**'],
+  },
   ...fixupConfigRules(
     compat.extends(
       'eslint:recommended',
