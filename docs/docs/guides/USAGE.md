@@ -1,6 +1,7 @@
 ---
 title: Usage
 description: Basic example and config.
+sidebar_position: 4
 ---
 
 ### Basic Example

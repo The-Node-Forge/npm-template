@@ -1,6 +1,7 @@
 ---
 title: Installation
 description: Installation details.
+sidebar_position: 2
 ---
 
 ### Prerequisites
