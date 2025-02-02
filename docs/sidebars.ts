@@ -7,7 +7,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'API Reference',
-      collapsible: false,
+      collapsible: true,
       items: [
         'api/index', // Main API Page
         'api/globals', // If needed
@@ -20,14 +20,14 @@ const sidebars: SidebarsConfig = {
     {
       type: 'category',
       label: 'Guides & Documentation',
-      collapsible: false,
+      collapsible: true,
       items: [
-        'guides/API_REFERENCE',
-        'guides/CHANGELOG',
-        'guides/CODE_OF_CONDUCT',
         'guides/DOCS_INDEX',
         'guides/INSTALLATION',
+        'guides/API_REFERENCE',
         'guides/USAGE',
+        'guides/CHANGELOG',
+        'guides/CODE_OF_CONDUCT',
       ],
     },
   ],
