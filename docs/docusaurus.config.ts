@@ -9,6 +9,7 @@ const config: Config = {
 
   url: 'https://the-node-forge.github.io',
   baseUrl: '/npm-template/',
+  trailingSlash: false,
 
   organizationName: 'The-Node-Forge',
   projectName: 'npm-template', // Edit
