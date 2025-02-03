@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'The Node Forge', // Edit
   tagline: 'Lightweight NPM Packages Made Easy', // Edit
-  favicon: 'img/favicon.ico', // Edit
+  favicon: 'img/favicon.ico',
 
   url: 'https://the-node-forge.github.io',
   baseUrl: '/',
@@ -49,27 +49,21 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg', // Edit
+    image: 'img/theNodeForge.png', // Edit
     navbar: {
-      title: 'The Node Forge', // Edit
+      title: 'The Node Forge', // Your Package Name
       logo: {
-        alt: 'The Node Forge Logo', // Edit
-        src: 'img/logo.svg', // Edit
+        alt: 'The Node Forge Logo', // edit
+        src: 'img/theNodeForge.png', // Your Logo
       },
       items: [
-        // uncomment to enable tutorial sidebar
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Docs',
-        // },
         {
           type: 'docSidebar',
-          sidebarId: 'guidesSidebar',
+          sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Guides',
+          label: 'Docs',
         },
+
         {
           type: 'docSidebar',
           sidebarId: 'apiSidebar',
@@ -119,7 +113,7 @@ const config: Config = {
     [
       'docusaurus-plugin-typedoc',
       {
-        entryPoints: ['../src/index.ts'], // Update with main entry file
+        entryPoints: ['../src/index.ts'],
         tsconfig: '../tsconfig.json',
         out: 'docs/api',
         includeVersion: true,

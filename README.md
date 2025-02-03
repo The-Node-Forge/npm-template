@@ -1,6 +1,11 @@
-# My NPM Package - The Node Forge Template
+---
+title: NPM-Template
+description: All details neded for npm-template
+---
 
-Welcome to **My NPM Package**! This repository serves as a **template** for The Node
+# NPM-Template
+
+Welcome to **npm-template**! This repository serves as a **template** for The Node
 Forge members to quickly scaffold a new **TypeScript-based NPM package** with
 built-in **linting, testing, documentation, and CI/CD**.
 
