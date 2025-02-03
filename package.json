@@ -12,7 +12,11 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "prepublishOnly": "npm run build",
-    "build": "tsc"
+    "build": "tsc",
+    "docs:build": "cd docs && npm run build",
+    "docs:start": "cd docs && npm start",
+    "docs:clean": "rm -rf docs/build && npm run docs:build",
+    "docs:deploy": "cd docs && npm run deploy"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,8 @@
-## API_REFERENCE.md
-
-# API Reference
+---
+title: API Reference
+description: API parameters, returns, examples.
+sidebar_position: 3
+---
 
 ### `functionName(param1, param2)`
 
