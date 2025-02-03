@@ -1,5 +1,5 @@
 ---
-title: Documentaion Index
+title: Documentation Index
 description: Guides list
 sidebar_position: 1
 ---
@@ -11,22 +11,22 @@ guides:
 
 ## Description
 
-**SHORT_DESCRIPTION**
+**SHORT_DESCRIPTION of your project**
 
-## 📌 Getting Started
+### 📌 Getting Started
 
 - [Installation Guide](./INSTALLATION.md)
 - [Usage Instructions](./USAGE.md)
 <!-- - [Configuration](..guides/CONFIGURATION.md) -->
 
-## 🔧 Developer Guide
+### 🔧 Developer Guide
 
 <!-- - [Contributing](./CONTRIBUTING.md) -->
 
 - [API Reference](./API_REFERENCE.md)
 - [Changelog](./CHANGELOG.md)
 
-## 📜 Community & Policies
+### 📜 Community & Policies
 
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 
