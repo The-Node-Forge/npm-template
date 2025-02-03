@@ -1,4 +1,4 @@
-# NPM-template
+# NPM-Template
 
 Welcome to **npm-template**! This repository serves as a **template** for The Node
 Forge members to quickly scaffold a new **TypeScript-based NPM package** with
