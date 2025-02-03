@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://the-node-forge.github.io',
-  baseUrl: '/',
+  baseUrl: '/npm-template/',
 
   organizationName: 'The-Node-Forge',
   projectName: 'npm-template', // Edit
