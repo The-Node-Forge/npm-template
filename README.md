@@ -1,11 +1,11 @@
----
-title: NPM-Template
-description: All details neded for npm-template
----
-
+<div align="center">
+   
 # NPM-Template
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to **npm-template**! This repository serves as a **template** for The Node
+ </div>
+
+Welcome to The-Node-Forge **npm-template**! This repository serves as a **template** for The Node
 Forge members to quickly scaffold a new **TypeScript-based NPM package** with
 built-in **linting, testing, documentation, and CI/CD**.
 
