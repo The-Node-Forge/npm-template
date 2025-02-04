@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Documentation Index
 
-Welcome to the documentation for **{{PROJECT_NAME}}**. Below is a list of available
+Welcome to the documentation for **NPM-Template**. Below is a list of available
 guides:
 
 ## Description
 
-**{{SHORT_DESCRIPTION}} of your project**
+**A fully-configured TypeScript NPM package template with built-in CI/CD, automated tests, ESLint, Prettier, and Docusaurus documentation. Get started quickly with best practices for package development**
 
 ### 📌 Getting Started
 
