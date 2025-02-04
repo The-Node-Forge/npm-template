@@ -11,7 +11,9 @@ guides:
 
 ## Description
 
-**A fully-configured TypeScript NPM package template with built-in CI/CD, automated tests, ESLint, Prettier, and Docusaurus documentation. Get started quickly with best practices for package development**
+**A fully-configured TypeScript NPM package template with built-in CI/CD, automated
+tests, ESLint, Prettier, and Docusaurus documentation. Get started quickly with best
+practices for package development**
 
 ### 📌 Getting Started
 
