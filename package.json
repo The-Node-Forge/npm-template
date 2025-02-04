@@ -1,7 +1,7 @@
 {
   "name": "my-npm-package",
   "version": "1.0.0",
-  "description": "A starter npm package",
+  "description": "A fully-configured TypeScript NPM package template with built-in CI/CD, automated tests, ESLint, Prettier, and Docusaurus documentation. Get started quickly with best practices for package development",
   "main": "src/index.ts",
   "scripts": {
     "test": "jest",

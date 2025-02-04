@@ -6,12 +6,12 @@ sidebar_position: 1
 
 # Documentation Index
 
-Welcome to the documentation for **PROJECT_NAME**. Below is a list of available
+Welcome to the documentation for **{{PROJECT_NAME}}**. Below is a list of available
 guides:
 
 ## Description
 
-**SHORT_DESCRIPTION of your project**
+**{{SHORT_DESCRIPTION}} of your project**
 
 ### 📌 Getting Started
 
