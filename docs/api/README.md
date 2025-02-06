@@ -1,6 +1,6 @@
 **my-npm-package**
 
-***
+---
 
 <div align="center">
    
