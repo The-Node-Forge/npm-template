@@ -1,6 +1,6 @@
 [**my-npm-package**](../README.md)
 
----
+***
 
 [my-npm-package](../globals.md) / greet
 
@@ -8,8 +8,7 @@
 
 > **greet**(`name`): `string`
 
-Defined in:
-[index.ts:7](https://github.com/The-Node-Forge/npm-template/blob/0399c62658f39cbb800a95df52a0733a187f2be7/src/index.ts#L7)
+Defined in: [index.ts:7](https://github.com/The-Node-Forge/npm-template/blob/b0e9e0b04f0a7c01c4358b36bebab6db0245c199/src/index.ts#L7)
 
 Generates a greeting message for a given name.
 
