@@ -32,6 +32,9 @@ jobs:
           cd docs
           npm install
 
+      - name: Generate API Docs
+        run: npm run docs:generate
+
       - name: Build Docusaurus
         run: npm run docs:build
 
