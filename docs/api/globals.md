@@ -1,3 +1,7 @@
+[**my-npm-package**](README.md)
+
+***
+
 # my-npm-package
 
 ## Functions

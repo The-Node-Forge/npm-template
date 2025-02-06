@@ -1,3 +1,7 @@
+**my-npm-package**
+
+***
+
 <div align="center">
    
 # NPM-Template

@@ -124,6 +124,7 @@ const config: Config = {
         excludeProtected: true,
         excludeExternals: true,
         excludeNotDocumented: true, // Exclude code without JSDoc comments
+        plugin: ['typedoc-plugin-markdown'],
       },
     ],
   ],
