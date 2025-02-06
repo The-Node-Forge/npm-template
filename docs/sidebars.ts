@@ -8,7 +8,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'API Reference',
       collapsible: true,
-      collapsed: false, 
+      collapsed: false,
       items: [
         'api/index', // Main API Page
         // 'api/globals', // If needed
