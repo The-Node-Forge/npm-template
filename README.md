@@ -90,7 +90,7 @@ lives in the `docs/docs/` folder.
 #### 📂 **`docs/static/PROJECTMARKDOWN.md`**
 
 - Add your project readme here, this is your documentation landing page
-  
+
 #### 📂 **`docs/src/components/HomepageFeatures/index.tsx`**
 
 - Edit Documentation Splashpage.
