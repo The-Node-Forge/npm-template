@@ -1,8 +1,9 @@
 {
-  "name": "my-npm-package",
+  "name": "@the-node-forge/my-npm-package",
   "version": "1.0.0",
   "description": "A fully-configured TypeScript NPM package template with built-in CI/CD, automated tests, ESLint, Prettier, and Docusaurus documentation. Get started quickly with best practices for package development",
   "main": "src/index.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
@@ -24,12 +25,16 @@
     "url": "https://github.com/The-Node-Forge/npm-template"
   },
   "keywords": [
-    "npm",
-    "template",
-    "starter"
+    "express",
+    "typescript",
+    "npm-package"
   ],
-  "author": "Your Name",
+  "author": "The Node Forge",
   "license": "MIT",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "devDependencies": {
     "@eslint/compat": "^1.2.5",
     "@eslint/eslintrc": "^3.2.0",
