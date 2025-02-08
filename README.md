@@ -3,6 +3,8 @@
 # NPM-Template
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[Documentation](https://the-node-forge.github.io/npm-template/)
+
  </div>
 
 Welcome to The-Node-Forge **npm-template**! This repository serves as a **template**
