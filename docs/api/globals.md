@@ -1,8 +1,8 @@
-[**my-npm-package**](README.md)
+[**@the-node-forge/my-npm-package**](README.md)
 
----
+***
 
-# my-npm-package
+# @the-node-forge/my-npm-package
 
 ## Functions
 
