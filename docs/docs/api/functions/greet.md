@@ -2,7 +2,8 @@
 
 > **greet**(`name`): `string`
 
-Defined in: [index.ts:7](https://github.com/The-Node-Forge/npm-template/blob/fb2327d99b6f5d5538cd46a8eec923303d80650d/src/index.ts#L7)
+Defined in:
+[index.ts:7](https://github.com/The-Node-Forge/npm-template/blob/fb2327d99b6f5d5538cd46a8eec923303d80650d/src/index.ts#L7)
 
 Generates a greeting message for a given name.
 
