@@ -3,6 +3,9 @@
 # NPM-Template
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![NPM Version](https://img.shields.io/npm/v/@the-node-forge/npm-template)](https://www.npmjs.com/package/@the-node-forge/npm-template)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/the-node-forge/npm-template/ci.yaml?branch=main)](https://github.com/The-Node-Forge/npm-template/actions)
+
 [Documentation](https://the-node-forge.github.io/npm-template/)
 
  </div>
