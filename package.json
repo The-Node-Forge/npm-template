@@ -29,7 +29,10 @@
     "typescript",
     "npm-package"
   ],
-  "author": "The Node Forge",
+  "author": {
+    "name": "your name",
+    "url": "https://github.com/your-name"
+  },
   "license": "MIT",
   "files": [
     "dist",
