@@ -6,6 +6,8 @@
     "esModuleInterop": true,            // Allow default imports from CommonJS modules
     "skipLibCheck": true,               // Skip type checking for dependencies
     "declaration": true,                // Emit `.d.ts` declaration files
+    "declarationMap": true,
+    "emitDeclarationOnly": false,
     "outDir": "dist",                   // Output directory for compiled files
     "rootDir": ".",                      // Directory containing source files
     "moduleResolution": "node",
